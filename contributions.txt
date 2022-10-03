@@ -1,0 +1,24 @@
+Web Scraping:
+Abhigyan(Scoreboard)
+Tanishq(Match List)
+
+Feature Construction:
+Parth(Team Level Stats, Relevance)
+Pragalbh( Player Level Stats)
+Tanishq( Updating Team Level Stats match wise, incorporating both Team and Player Level stats into 1 database, and added Form index )
+Models:
+Naive Bayes & SVM - Parth
+KNN & LogReg - Abhigyan
+Neural Network - Pragalbh
+RandomForestClassifier - Tanishq
+
+Report Content:
+
+Parth(Introduction,Results,Conclusion)
+Abhigyan(Related Works)
+Tanishq(Data Collection)
+Pragalbh(Future Work, Data Collection-player stats)
+
+Methodology written by all
+
+Conversion to Latex- Parth,Tanishq,Pragalbh

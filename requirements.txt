@@ -1,0 +1,17 @@
+Python packages:
+
+(For basic operations)
+os
+pandas
+numpy
+matplotlib
+
+(For data scraping)
+bs4
+scrapy
+
+(For writing the models)
+sklearn
+colab
+
+
